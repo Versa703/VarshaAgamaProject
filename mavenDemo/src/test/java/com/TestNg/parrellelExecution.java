@@ -8,6 +8,9 @@ public class parrellelExecution {
 		System.out.println("Test Case 1");
 		
 	}
+	public void maven() {
+		
+	}
 	@Test()
 	public void testcase2() {
 		System.out.println("Test Case 2");
